@@ -1,0 +1,123 @@
+[
+    {
+      "id": "1",
+      "title_song": "Ghost Love Score",
+      "artist": "Nightwish",
+      "song_location": "X:/music/Ghost_Love_Score.mp3"
+    },
+    {
+      "id": "2",
+      "title_song": "Left on Mars",
+      "artist": "Marko Hietala & Tarja Turunen",
+      "song_location": "X:/music/Left_on_Mars.mp3"
+    },
+    {
+      "id": "3",
+      "title_song": "Purple Haze",
+      "artist": "Jimmy Hendrix",
+      "song_location": "X:/music/PurpleHaze.mp3"
+    },
+    {
+      "id": "4",
+      "title_song": "Symphony No. 5",
+      "artist": "Ludwig van Beethoven",
+      "song_location": "X:/music/SymphonyNo5.mp3"
+    },
+    {
+      "id": "5",
+      "title_song": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "song_location": "X:/music/Bohemian_Rhapsody.mp3"
+    },
+    {
+      "id": "6",
+      "title_song": "Caruso",
+      "artist": "Lucio Dalla",
+      "song_location": "X:/music/Caruso.mp3"
+    },
+    {
+      "id": "7",
+      "title_song": "Rolling in the Deep",
+      "artist": "Adele",
+      "song_location": "X:/music/Rolling_in_the_Deep.mp3"
+    },
+    {
+      "id": "8",
+      "title_song": "Sakura Drops",
+      "artist": "Utada Hikaru",
+      "song_location": "X:/music/SakuraDrops.mp3"
+    },
+    {
+      "id": "9",
+      "title_song": "Ride of the Valkyries",
+      "artist": "Richard Wagner",
+      "song_location": "X:/music/RideoftheValkyries.mp3"
+    },
+    {
+      "id": "10",
+      "title_song": "Ghost Riders In The Sky",
+      "artist": "Johnny Cash",
+      "song_location": "X:/music/GhostRidersInTheSky.mp3"
+    },
+    {
+      "id": "11",
+      "title_song": "Light My Fire",
+      "artist": "The Doors",
+      "song_location": "X:/music/LightMyFire.mp3"
+    },
+    {
+      "id": "12",
+      "title_song": "Hallelujah",
+      "artist": "Leonard Cohen",
+      "song_location": "X:/music/Hallelujah.mp3"
+    },
+    {
+      "id": "13",
+      "title_song": "Thunderstruck",
+      "artist": "AC/DC",
+      "song_location": "X:/music/Thunderstruck.mp3"
+    },
+    {
+      "id": "14",
+      "title_song": "Return To Innocence",
+      "artist": "Enigma",
+      "song_location": "X:/music/ReturnToInnocence.mp3"
+    },
+    {
+      "id": "15",
+      "title_song": "Rauta",
+      "artist": "Korpiklaani",
+      "song_location": "X:/music/Rauta.mp3"
+    },
+    {
+      "id": "16",
+      "title_song": "Click Song",
+      "artist": "Siki Jo-An",
+      "song_location": "X:/music/ClickSong.mp3"
+    },
+    {
+      "id": "17",
+      "title_song": " Ó Valhalla",
+      "artist": "Skald",
+      "song_location": "X:/music/OValhalla.mp3"
+    },
+    {
+      "id": "18",
+      "title_song": "Trøllabundin",
+      "artist": "Eivor",
+      "song_location": "X:/music/Trollabundin.mp3"
+    },
+    {
+      "id": "19",
+      "title_song": "Now We Are Free",
+      "artist": "Hans Zimmer",
+      "song_location": "X:/music/NowWeAreFree.mp3"
+    },
+    {
+      "id": "20",
+      "title_song": "Lose Yourself",
+      "artist": "Eminem",
+      "song_location": "X:/music/LoseYourself.mp3"
+    }
+  ]
+  
