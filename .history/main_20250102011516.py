@@ -3,7 +3,7 @@ import utilities
 
 # Main application file to orchestrate functionality
 def main():
-    print("Welcome to the Milky Way Napster MP3 App!")
+    print("Welcome to the Milky Way Napster App!")
     planets_module.display_planet_options()
     choice = input("Enter the number of your choice: ")
 

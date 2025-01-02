@@ -25,7 +25,7 @@ def send_music_to_planet(planet):
 import planets_module
 import utilities
 
-# Main application file to display functionality
+# Main application file to  functionality
 def main():
     print("Welcome to the Music Sender App!")
     choice = input("Enter the number of your choice: ")
