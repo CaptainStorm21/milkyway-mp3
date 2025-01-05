@@ -46,11 +46,9 @@ def main():
     # Calculate the distance
     distance = get_distance_to_body(selected_planet)
     if isinstance(distance, float):
-        print(f"The current distance from Earth to {selected_planet} is approximately {distance:.2f} km.")
-
         # Convert and display the distance in AU
-        distance_au = km_to_au(distance)
-        print(f"The current distance from Earth to {selected_planet} is approximately {distance_au:.6f} AU.")
+        distance_au = km_to_au(distance) 
+        print(f"The current distance from Earth to {selected_planet} is approximately {distance_au:.6f} AU or {distance:.2f} km.")
     else:
         print(distance)
 
