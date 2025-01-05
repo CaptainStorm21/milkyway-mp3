@@ -16,7 +16,7 @@ def display_planet_options():
     Returns:
         dict: The mapping of planet IDs to their names.
     """
-    print("Select one celestial body you want to send your music to:")
+    print("Where are we sending music to? Pick your celestial body:")
     for key, value in planets.items():
         print(f"{key}: {value}")
     return planets
