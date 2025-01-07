@@ -17,19 +17,22 @@
       "id": 3,
       "title_song": "Purple Haze",
       "artist": "Jimmy Hendrix",
-      "song_location": "X:/music/PurpleHaze.mp3"
+      "song_location": "X:/music/PurpleHaze.mp3",
+      "song_volume": 2000
     },
     {
       "id":  4,
       "title_song": "Symphony No. 5",
       "artist": "Ludwig van Beethoven",
-      "song_location": "X:/music/SymphonyNo5.mp3"
+      "song_location": "X:/music/SymphonyNo5.mp3",
+      "song_volume": 204300
     },
     {
       "id": 5,
       "title_song": "Bohemian Rhapsody",
       "artist": "Queen",
-      "song_location": "X:/music/Bohemian_Rhapsody.mp3"
+      "song_location": "X:/music/Bohemian_Rhapsody.mp3",
+      "song_volume": 24366
     },
     {
       "id": 6,
@@ -53,55 +56,64 @@
       "id": 9,
       "title_song": "Ride of the Valkyries",
       "artist": "Richard Wagner",
-      "song_location": "X:/music/RideoftheValkyries.mp3"
+      "song_location": "X:/music/RideoftheValkyries.mp3",
+      "song_volume": 234354
     },
     {
       "id": 10,
       "title_song": "Ghost Riders In The Sky",
       "artist": "Johnny Cash",
-      "song_location": "X:/music/GhostRidersInTheSky.mp3"
+      "song_location": "X:/music/GhostRidersInTheSky.mp3",
+      "song_volume": 345333
     },
     {
       "id": 11,
       "title_song": "Light My Fire",
       "artist": "The Doors",
-      "song_location": "X:/music/LightMyFire.mp3"
+      "song_location": "X:/music/LightMyFire.mp3",
+      "song_volume": 203533
     },
     {
       "id": 12,
       "title_song": "Hallelujah",
       "artist": "Leonard Cohen",
-      "song_location": "X:/music/Hallelujah.mp3"
+      "song_location": "X:/music/Hallelujah.mp3",
+      "song_volume": 2000
     },
     {
       "id": 13,
       "title_song": "Thunderstruck",
       "artist": "AC/DC",
-      "song_location": "X:/music/Thunderstruck.mp3"
+      "song_location": "X:/music/Thunderstruck.mp3",
+      "song_volume": 234500
     },
     {
       "id": 14,
       "title_song": "Return To Innocence",
       "artist": "Enigma",
-      "song_location": "X:/music/ReturnToInnocence.mp3"
+      "song_location": "X:/music/ReturnToInnocence.mp3",
+      "song_volume": 2000
     },
     {
       "id": 15,
       "title_song": "Rauta",
       "artist": "Korpiklaani",
-      "song_location": "X:/music/Rauta.mp3"
+      "song_location": "X:/music/Rauta.mp3",
+      "song_volume": 2000
     },
     {
       "id": 16,
       "title_song": "Click Song",
       "artist": "Siki Jo-An",
-      "song_location": "X:/music/ClickSong.mp3"
+      "song_location": "X:/music/ClickSong.mp3",
+      "song_volume": 43800
     },
     {
       "id": 17,
       "title_song": " Ó Valhalla",
       "artist": "Skald",
-      "song_location": "X:/music/OValhalla.mp3"
+      "song_location": "X:/music/OValhalla.mp3",
+      "song_volume": 32800
     },
     {
       "id": 18,
