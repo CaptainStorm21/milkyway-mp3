@@ -2,6 +2,8 @@ from astropy.coordinates import get_body, EarthLocation
 from astropy.time import Time
 import planets_module
 from AE_conversion import km_to_au  # Import the AU conversion function
+from astropy.coordinates import SkyCoord
+
 
 # Function to calculate the distance to a celestial body
 def get_distance_to_body(body_name):
@@ -22,11 +24,16 @@ def get_distance_to_body(body_name):
         # Retrieve the position of the celestial body
         body_position = get_body(body_name.lower(), now, earth_location)
 
-        # Convert distance from AU to kilometers (1 AU = 149,597,870.7 km)
-        distance_km = body_position.distance.au * 149597870.7
-        return distance_km
+        # Ensure the body_position is a SkyCoord object, and get its distance in AU
+        if isinstance(body_position, SkyCoord):
+            # Convert distance from AU to kilometers (1 AU = 149,597,870.7 km)
+            distance_km = body_position.distance.to('km').value  # Convert to km directly
+            return distance_km
+        else:
+            raise ValueError("Invalid body position data")
     except Exception as e:
         return f"Error calculating distance: {str(e)}"
+
 
 # Main script logic
 def main():
@@ -51,6 +58,7 @@ def main():
         print(f"The current distance from Earth to {selected_planet} is approximately {distance_au:.6f} AU or {distance:.2f} km.")
     else:
         print(distance)
+
 
 # Run the program
 if __name__ == "__main__":

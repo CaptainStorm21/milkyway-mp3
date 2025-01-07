@@ -6,8 +6,7 @@ planets = {
     "5": "Saturn",
     "6": "Uranus",
     "7": "Neptune",
-    "8": "Pluto",  # Pluto is no longer officially a planet but included for reference
-    "9": "Moon"
+    "8": "Moon"
 }
 
 def display_planet_options():
